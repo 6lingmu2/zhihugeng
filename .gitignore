@@ -1,0 +1,6 @@
+# 便携版 Git（不上传）
+git/
+git-portable.exe
+# ngrok 临时文件
+.ngrok/
+ngrok_tunnel.py
